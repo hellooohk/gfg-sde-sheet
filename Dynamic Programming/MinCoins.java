@@ -23,6 +23,7 @@ public class MinCoins {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int N = scn.nextInt();
+        scn.close();
         System.out.println(minPartition(N).toString());
     }
 }
