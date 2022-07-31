@@ -2,6 +2,7 @@ import java.util.*;
 
 public class LCSub {
     /*
+     * Longest Common Substring
      * Given two strings. The task is to find the length of the longest common
      * substring.
      * Input: S1 = "ABCDGH", S2 = "ACDGHR", n = 6, m = 6
